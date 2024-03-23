@@ -1,6 +1,5 @@
 # personal_portfolio_page_fcc
-
-Personal Portfolio Page | CSS,  HTML | Responsive Web Design (CSS, HTML) | 05/05 | freeCodeCamp | 2024
+Personal Portfolio Page | CSS, HTML | Responsive Web Design (CSS, HTML) | 05/05 | freeCodeCamp | 2024
 
 Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks. Do not copy this demo project.
 
